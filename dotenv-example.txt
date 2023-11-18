@@ -1,0 +1,6 @@
+MONGO_URL="Use either your local mongodb or mongo atlas url"
+PORT="Example 5000"
+SERVICE="Use the email service for nodemailer i.e Gmail, Outlook, etc..."
+AUTH_USER="your gmail or outlook emaill address"
+AUTH_PASS="application password"
+STRIPE_KEY="add the stripe api to allow payment"
